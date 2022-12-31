@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(199, 199, 228);
+    font-family: Arial;
+}
+.content{
+    background-color:#171755;
+    width:700px;
+    height:700px;
+    border-radius: 20px;
+    margin: 70px;
+}
+.text{
+    font-size:50px;
+    color: white;
+    padding:30px 20px;
+    font-weight: normal;
+    margin-bottom: -20px;
+    
+}
+.para{
+    color: white;
+    padding-left: 20px;
+    font-size: 15px;
+    
+}
+button{
+    color: black;
+    border-radius: 5px;
+    padding: 6px 18px;
+    margin: 0 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top:60px;
+   
+}
+
+.card{
+    background-color: white;
+    width: 220px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    perspective: 1px;
+    
+}
+.card-image{
+    background-color: aliceblue;
+    height: 150px;
+    background-size: cover;
+}
+.gym-1{
+    background-image: url('https://media.istockphoto.com/id/1183038884/photo/view-of-a-row-of-treadmills-in-a-gym-with-people.jpg?s=612x612&w=0&k=20&c=VnTSyKHKl-YFOmpFqW_hNyIlis0sFksfcR9Ei3-r29s=');
+}
+.gym-2{
+    background-image: url('https://www.themangoblog.com/wp-content/uploads/2020/02/Fitness.jpg');
+}
+.gym-3{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/452/174/small_2x/sport-woman-relax-resting-after-workout-or-exercise-in-fitness-gym-photo.jpg');
+}
+
+h6{
+    color: #171755;
+    font-size:8px;
+    padding: 10px;
+}
+.text1{
+    font-size: 15px;
+    color: #171755;
+    font-weight: bold;
+    margin-top: -10px;
+    padding:0 10px;
+}
+.view{
+    color: #171755;
+    font-size:8px;
+    padding: 10px;
+}
+.text2{
+    font-size: 15px;
+    color: #171755;
+    font-weight: bold;
+    margin-top: -10px;
+    padding:0 10px;
+}
+.text3{
+    font-size: 15px;
+    color: #171755;
+    font-weight: bold;
+    margin-top: -10px;
+    padding:0 10px;
+}
+span{
+    margin-right: 10px;
+   padding-left: 5px;
+   padding-right: 10px;
+}

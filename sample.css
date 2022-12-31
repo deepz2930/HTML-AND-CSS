@@ -1,0 +1,204 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+li{
+    display: inline-block;
+    padding: 0 15px;
+    text-align: center;
+    
+}
+.Heading{
+    font-size: 1.25rem;
+    
+}
+li a {
+    text-decoration: none;
+    color:darkgray;
+}
+a:hover{
+    color:black;
+}
+.item{
+    padding-left: 150px;
+}
+.content{
+    background-image: url('https://img.freepik.com/premium-photo/blurred-background-blur-man-using-smart-phone-lap-top-computer-office-casual-style_7190-173.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center ; 
+    height: 700px;
+    color: white;
+    text-align: center;
+    padding-top: 170px;
+}
+.content >h1{
+    font-size: 90px;
+    
+}
+.content >h2{
+    font-size: 30px;
+    padding-top: 0%;
+}
+.content>button{
+    background-color: rgb(225, 37, 37);
+    border: none;
+    padding: 10px;
+}
+.service >img{
+    float: left;
+    width: 400px;
+    padding: 30px;
+    margin: 60px;
+    margin-right: 100px;
+}
+.service1{
+    padding-top: 70px;
+    font-size: 40px;
+}
+.service2{
+    font-size: 20px;
+    color: darkgray;
+}
+.service3{
+    background-color:rgb(225, 37, 37) ;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+.Teams >img{
+    float: right;
+    width: 400px;
+    padding: 30px;
+    margin: 60px;
+    margin-right: 100px;
+}
+.team1{
+    font-size: 40px;
+    padding-left: 30px;
+    margin: 60px;
+    margin-right: 100px;
+    padding-top: 150px;
+}
+.team2{
+    font-size: 20px;
+    color: darkgray;
+    padding-left: 30px;
+    padding-top:0%;
+    margin: 60px;
+    margin-right: 100px;
+}
+.team3{
+    background-color:rgb(225, 37, 37) ;
+    border: none;
+    padding: 10px;
+    margin-right: 100px;
+    margin: 90px;
+}
+.clients{
+    
+    padding-left: 50px;
+    font-size: 40px;
+}
+.image1{
+   display: flex;
+   gap: 300px;
+   
+}
+.img1{
+    width: 100px;
+    padding-left: 70px;
+}
+.img2{
+    width:150px;
+   
+}
+.img3{
+    width:200px;
+    
+}
+.image2{
+    display: flex;
+    gap:220px;
+}
+.img4{
+    width: 200px;
+    padding-left:40px;
+}
+.img5{
+    width: 200px;
+}
+.img6{
+    width: 200px;
+    
+}
+.button1{
+    background-color:rgb(225, 37, 37) ;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.article{
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+ 
+  .row {
+    margin: 0 -5px;
+    margin-left: 70px;
+    justify-content: space-between;
+}
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+   
+    
+  }
+  .card_img{
+    width: 250px;
+  }
+  .last{
+    float: left;
+    padding: 30px;
+    margin: 60px;
+    margin-right: 100px;
+  }
+  .button2{
+    background-color:rgb(225, 37, 37) ;
+    border: none;
+    padding: 10px;
+    float: right;
+  }
+  
+
+
+
